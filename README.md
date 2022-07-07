@@ -1,5 +1,5 @@
 
-# Customer Segmentation ETL Pipeline & Voucher Selection API - Data Engineering project
+# Customer Segmentation ETL Pipeline & Voucher Selection API Module 
 
 POC project for generating customer segmentation data and develop an API for exposing voucher amount for customer segments. This project can be categorized into two parts : 
 ```
